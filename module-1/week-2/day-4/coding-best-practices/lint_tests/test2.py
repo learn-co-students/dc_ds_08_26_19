@@ -1,8 +1,10 @@
-first_variable=4
-second_Variable=6
-third_variable = 8
+"""This is a demo for a class exercise."""
 
-total = (first_variable +
-           second_Variable -
-         third_variable)
+FIRST_VARIABLE = 4
+SECOND_VARIABLE = 6
+THIRD_VARIABLE = 8
+
+total = (FIRST_VARIABLE
+        + SECOND_VARIABLE
+        - THIRD_VARIABLE)
 print(total)
